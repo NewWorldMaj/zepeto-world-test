@@ -1,0 +1,17 @@
+{
+	"name": "ZEPETO.Ad.Generated",
+	"rootNamespace": "ZEPETO.Ad.Generated",
+	"references": [
+		"ZEPETO.Ad",
+		"ZEPETO.Script"
+	],
+	"includePlatforms": [],
+	"excludePlatforms": [],
+	"allowUnsafeCode": true,
+	"overrideReferences": false,
+	"precompiledReferences": [],
+	"autoReferenced": true,
+	"defineConstraints": [],
+	"versionDefines": [],
+	"noEngineReferences": false
+}
