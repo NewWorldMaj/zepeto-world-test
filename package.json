@@ -1,12 +1,12 @@
 {
-  "name": "zepeto.ad",
-  "scope": "zepeto",
-  "displayName": "ZEPETO.Ad",
+  "name": "mashuai.test.ad",
+  "scope": "mashuai",
+  "displayName": "MaShuai.Test",
   "version": "0.1.0",
   "unity": "2020.3",
   "description": "In World Ad for Zepeto Script",
   "keywords": [
-    "zepeto",
+    "mashuai",
     "script",
     "javascript",
     "advertisement",
@@ -15,8 +15,6 @@
   "category": "Unity",
   "hideInEditor": false,
   "author": {
-    "name": "ZEPETO",
-    "email": "support@zepeto.me",
-    "url": "https://zepeto.me/"
+    "name": "MaShuai",
   }
 }
